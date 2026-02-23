@@ -37,6 +37,4 @@ I am a first-year Artificial Intelligence student passionate about solving probl
 
 ## 📫 Let's Connect!
 **LinkedIn:** [linkedin.com/in/khadijasami](https://www.linkedin.com/in/khadijasami)  
-**Email:** [Add her professional email here]
-
 </div>
