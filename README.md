@@ -1,5 +1,6 @@
 <div align="center">
-
+<img src="https://i.imgur.com/8MupZHY.gif" width="400px" />
+<br>
 # 👋 Hi, I'm Khadija! 
 
 ### **Artificial Intelligence Student | Aspiring Software Engineer | Web Developer**
