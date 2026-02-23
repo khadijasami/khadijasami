@@ -1,11 +1,12 @@
 <div align="center">
-<img src="https://i.imgur.com/8MupZHY.gif" width="400px" />
-<br>
-👋 Hi, I'm Khadija!
+
+<img src="https://i.postimg.cc/ryWrrK3D/Coding-(4).gif" width="400px" />
+
+# 👋 Hi, I'm Khadija! 
 
 ### **Artificial Intelligence Student | Aspiring Software Engineer | Web Developer**
 
-I am a first-year Artificial Intelligence student passionate about solving problems through code. Currently, I am focused on mastering the fundamentals of software engineering and building responsive web applications. I love the logic of C++ and the creativity of the modern web.
+I am a first-year Artificial Intelligence student passionate about solving problems through code. Currently, I am focused on mastering the fundamentals of software engineering and building responsive web applications with **HTML and CSS**. I also enjoy the logic and structure of **C++**.
 
 ---
 
@@ -23,7 +24,7 @@ I am a first-year Artificial Intelligence student passionate about solving probl
 
 | Programming | Web Development | Tools |
 | :---: | :---: | :---: |
-| C++ | HTML5, CSS3, JavaScript (Learning) | VS Code, Git & GitHub |
+| C++ | HTML5, CSS3 | VS Code, Git & GitHub |
 
 <br />
 
@@ -34,14 +35,8 @@ I am a first-year Artificial Intelligence student passionate about solving probl
 
 ---
 
-## 📊 GitHub Stats
-![Khadija's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=radical)
-<br />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=radical)
-
----
-
 ## 📫 Let's Connect!
 **LinkedIn:** [linkedin.com/in/khadijasami](https://www.linkedin.com/in/khadijasami)  
+**Email:** [Add her professional email here]
 
 </div>
